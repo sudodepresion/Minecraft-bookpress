@@ -14,10 +14,10 @@ If you start it for the first time it will execute a cmd command downloading the
 Then It will open the main window.
 
 ### How to use the main window
-[alt text](https://github.com/sudodepresion/Minecraft-bookpress/blob/main/on-start.png?raw=true)
+![plot](https://github.com/sudodepresion/Minecraft-bookpress/blob/main/on-start.png?raw=true)
 
-[alt text]https://github.com/sudodepresion/Minecraft-bookpress/blob/main/minimal-size.png?raw=true
+[alt text](https://github.com/sudodepresion/Minecraft-bookpress/blob/main/minimal-size.png?raw=true)
 
-[alt text]https://github.com/sudodepresion/Minecraft-bookpress/blob/main/showcase1.png?raw=true
+[alt text](https://github.com/sudodepresion/Minecraft-bookpress/blob/main/showcase1.png?raw=true)
 
-[alt text]https://github.com/sudodepresion/Minecraft-bookpress/blob/main/showcase2.png?raw=true
+[alt text](https://github.com/sudodepresion/Minecraft-bookpress/blob/main/showcase2.png?raw=true)
