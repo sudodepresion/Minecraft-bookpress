@@ -15,3 +15,9 @@ Then It will open the main window.
 
 ### How to use the main window
 [alt text](https://github.com/sudodepresion/Minecraft-bookpress/blob/main/on-start.png?raw=true)
+
+[alt text]https://github.com/sudodepresion/Minecraft-bookpress/blob/main/minimal-size.png?raw=true
+
+[alt text]https://github.com/sudodepresion/Minecraft-bookpress/blob/main/showcase1.png?raw=true
+
+[alt text]https://github.com/sudodepresion/Minecraft-bookpress/blob/main/showcase2.png?raw=true
