@@ -14,3 +14,4 @@ If you start it for the first time it will execute a cmd command downloading the
 Then It will open the main window.
 
 ### How to use the main window
+[alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
