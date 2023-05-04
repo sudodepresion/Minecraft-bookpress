@@ -3,11 +3,10 @@
 
 
 ## Requirements
-You need to have python as well as pip installed. Furthermore this was only testet on 2 Windows 11 PCs beacause thats all I have, so if you ar e experiencing issues with it on a different OS, inform me about it.
+You need to have python as well as pip installed. Furthermore this was only testet on 2 Windows 11 PCs beacause thats all I have, so if you are experiencing issues with it on a different OS, inform me about it.
 
 ## The files
 There is a .exe and a zip folder. The zip folder is a c# form(not with the .net framework) Project you can check/compile yourself if you dont trust the .exe.
-(Rather be safe than sorry, dont just take my word for it)
 
 ## What does it do? 
 If you start it for the first time it will execute a cmd command downloading the pynput library(You can see this in the Form1.cs File on line 31-40.
@@ -19,7 +18,7 @@ When you start the programm you will see this window.
 ![plot](https://github.com/sudodepresion/Minecraft-bookpress/blob/main/on-start.png?raw=true)
 
 
-If you make it as small as possible, you could fit as many charackters(with max size, not every charackter takes up the same amount of space)
+If you make it as small as possible, you can fit as many charackters(with max size, not every charackter takes up the same amount of space)
 as a page in the book would have.
 
 ![plot](https://github.com/sudodepresion/Minecraft-bookpress/blob/main/minimal-size.png?raw=true)
