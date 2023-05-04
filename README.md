@@ -14,10 +14,19 @@ If you start it for the first time it will execute a cmd command downloading the
 Then It will open the main window.
 
 ### How to use the main window
+When you start the programm you will see this window.
 ![plot](https://github.com/sudodepresion/Minecraft-bookpress/blob/main/on-start.png?raw=true)
 
+
+If you make it as small as possible, you could fit as many charackters(with max size, not every charackter takes up the same amount of space)
+as a page in the book would have.
 ![plot](https://github.com/sudodepresion/Minecraft-bookpress/blob/main/minimal-size.png?raw=true)
 
+
+Before you press run, you should calibrate it. To do this press on the button and hover your mouse over the next page arrow(In minecraft)
 ![plot](https://github.com/sudodepresion/Minecraft-bookpress/blob/main/showcase1.png?raw=true)
 
+
+Then you can just paste your text into the field and press run. You will have 2 seconds to press on the minecraft screen again,
+because it has to be your active window.
 ![plot](https://github.com/sudodepresion/Minecraft-bookpress/blob/main/showcase2.png?raw=true)
