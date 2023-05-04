@@ -13,7 +13,7 @@ There is a .exe and a zip folder. The zip folder is a c# form(not with the .net 
 If you start it for the first time it will execute a cmd command downloading the pynput library(You can see this in the Form1.cs File on line 31-40.
 Then It will open the main window.
 
-### How to use the main window
+## How to use the main window
 When you start the programm you will see this window.
 ![plot](https://github.com/sudodepresion/Minecraft-bookpress/blob/main/on-start.png?raw=true)
 
