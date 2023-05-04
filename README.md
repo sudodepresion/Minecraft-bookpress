@@ -6,7 +6,7 @@
 You need to have python as well as pip installed. Furthermore this was only testet on 2 Windows 11 PCs beacause thats all I have, so if you are experiencing issues with it on a different OS, inform me about it.
 
 ## The files
-There is a .exe and a zip folder. The zip folder is a c# form(not with the .net framework) Project you can check/compile yourself if you dont trust the .exe.
+There is a .exe and a zip folder(And a few screenshots). The zip folder is a c# form(not with the .net framework) Project you can check/compile yourself if you dont trust the .exe.
 
 ## What does it do? 
 If you start it for the first time it will execute a cmd command downloading the pynput library(You can see this in the Form1.cs File on line 31-40.
