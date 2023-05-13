@@ -8,6 +8,9 @@ You need to have python as well as pip installed. Furthermore this was only test
 ## The files
 There is a .exe and a zip folder(And a few screenshots). The zip folder is a c# form(not with the .net framework) Project you can check/compile yourself if you dont trust the .exe.
 
+## Common Errors
+The text can not be too long, there is a max but it successeds the limit of text that fits into a singular book so it doesnt matter. Also the text can not include ". ' is okay, but " is not.
+
 ## What does it do? 
 If you start it for the first time it will execute a cmd command downloading the pynput library(You can see this in the Form1.cs File on line 31-40.
 Then It will open the main window.
